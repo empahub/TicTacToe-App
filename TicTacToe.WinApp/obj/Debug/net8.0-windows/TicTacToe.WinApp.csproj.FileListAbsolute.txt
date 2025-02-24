@@ -1,0 +1,16 @@
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\bin\Debug\net8.0-windows\TicTacToe.WinApp.exe
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\bin\Debug\net8.0-windows\TicTacToe.WinApp.deps.json
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\bin\Debug\net8.0-windows\TicTacToe.WinApp.runtimeconfig.json
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\bin\Debug\net8.0-windows\TicTacToe.WinApp.dll
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\bin\Debug\net8.0-windows\TicTacToe.WinApp.pdb
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\obj\Debug\net8.0-windows\TicTacToe.WinApp.frmHomePage.resources
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\obj\Debug\net8.0-windows\TicTacToe.WinApp.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\obj\Debug\net8.0-windows\TicTacToe.WinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\obj\Debug\net8.0-windows\TicTacToe.WinApp.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\obj\Debug\net8.0-windows\TicTacToe.WinApp.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\obj\Debug\net8.0-windows\TicTacToe.WinApp.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\obj\Debug\net8.0-windows\TicTacToe.WinApp.dll
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\obj\Debug\net8.0-windows\refint\TicTacToe.WinApp.dll
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\obj\Debug\net8.0-windows\TicTacToe.WinApp.pdb
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\obj\Debug\net8.0-windows\TicTacToe.WinApp.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\obj\Debug\net8.0-windows\ref\TicTacToe.WinApp.dll

@@ -1,0 +1,11 @@
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Data\bin\Debug\net8.0\TicTacToe.Data.deps.json
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Data\bin\Debug\net8.0\TicTacToe.Data.dll
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Data\bin\Debug\net8.0\TicTacToe.Data.pdb
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Data\obj\Debug\net8.0\TicTacToe.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Data\obj\Debug\net8.0\TicTacToe.Data.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Data\obj\Debug\net8.0\TicTacToe.Data.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Data\obj\Debug\net8.0\TicTacToe.Data.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Data\obj\Debug\net8.0\TicTacToe.Data.dll
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Data\obj\Debug\net8.0\refint\TicTacToe.Data.dll
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Data\obj\Debug\net8.0\TicTacToe.Data.pdb
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Data\obj\Debug\net8.0\ref\TicTacToe.Data.dll

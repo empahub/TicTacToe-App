@@ -1,0 +1,12 @@
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Infrastructure\bin\Debug\net8.0\TicTacToe.Infrastructure.deps.json
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Infrastructure\bin\Debug\net8.0\TicTacToe.Infrastructure.dll
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Infrastructure\bin\Debug\net8.0\TicTacToe.Infrastructure.pdb
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Infrastructure\obj\Debug\net8.0\TicTacToe.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Infrastructure\obj\Debug\net8.0\TicTacToe.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Infrastructure\obj\Debug\net8.0\TicTacToe.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Infrastructure\obj\Debug\net8.0\TicTacToe.Infrastructure.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Infrastructure\obj\Debug\net8.0\TicTacToe.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Infrastructure\obj\Debug\net8.0\TicTacToe.Infrastructure.dll
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Infrastructure\obj\Debug\net8.0\refint\TicTacToe.Infrastructure.dll
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Infrastructure\obj\Debug\net8.0\TicTacToe.Infrastructure.pdb
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Infrastructure\obj\Debug\net8.0\ref\TicTacToe.Infrastructure.dll
