@@ -10,3 +10,7 @@ C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Infrastructure\obj\Debug\net8.0\TicTa
 C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Infrastructure\obj\Debug\net8.0\refint\TicTacToe.Infrastructure.dll
 C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Infrastructure\obj\Debug\net8.0\TicTacToe.Infrastructure.pdb
 C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Infrastructure\obj\Debug\net8.0\ref\TicTacToe.Infrastructure.dll
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Infrastructure\obj\Debug\net8.0\TicTacToe.Infrastructure.sourcelink.json
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Infrastructure\bin\Debug\net8.0\TicTacToe.Data.dll
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Infrastructure\bin\Debug\net8.0\TicTacToe.Data.pdb
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Infrastructure\obj\Debug\net8.0\TicTacTo.1793E72A.Up2Date

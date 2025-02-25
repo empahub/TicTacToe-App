@@ -6,16 +6,15 @@ using System.Configuration;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TicTacToe.Data;
 
 
 namespace TicTacToe.Infrastructure
 {
-    internal class TicTacToeDBContext:DbContext
+    public class TicTacToeDBContext:DbContext
     {
         private string connectionString = ConfigurationManager.ConnectionStrings["TicTacToeBase"].ConnectionString;
-        public TicTacToeDBContext():base() 
-        {
-        }
+       
 
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -26,6 +25,8 @@ namespace TicTacToe.Infrastructure
             optionsBuilder.UseSqlite(connectionString);
         }
 
+        public DbSet<Games> Games { get; set; }
+        public DbSet<Players> Players { get; set; }
 
     }
     

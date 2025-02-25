@@ -9,3 +9,4 @@ C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Data\obj\Debug\net8.0\TicTacToe.Data.
 C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Data\obj\Debug\net8.0\refint\TicTacToe.Data.dll
 C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Data\obj\Debug\net8.0\TicTacToe.Data.pdb
 C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Data\obj\Debug\net8.0\ref\TicTacToe.Data.dll
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.Data\obj\Debug\net8.0\TicTacToe.Data.sourcelink.json

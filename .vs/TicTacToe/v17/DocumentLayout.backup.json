@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Korisnik\\Desktop\\TikTak\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9210562B-B6BF-4B28-A89B-83215862A2E1}|TicTacToe.WinApp\\TicTacToe.WinApp.csproj|c:\\users\\korisnik\\desktop\\tiktak\\tictactoe.winapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{9210562B-B6BF-4B28-A89B-83215862A2E1}|TicTacToe.WinApp\\TicTacToe.WinApp.csproj|solutionrelative:tictactoe.winapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{9210562B-B6BF-4B28-A89B-83215862A2E1}|TicTacToe.WinApp\\TicTacToe.WinApp.csproj|c:\\users\\korisnik\\desktop\\tiktak\\tictactoe.winapp\\frmsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9210562B-B6BF-4B28-A89B-83215862A2E1}|TicTacToe.WinApp\\TicTacToe.WinApp.csproj|solutionrelative:tictactoe.winapp\\frmsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9210562B-B6BF-4B28-A89B-83215862A2E1}|TicTacToe.WinApp\\TicTacToe.WinApp.csproj|c:\\users\\korisnik\\desktop\\tiktak\\tictactoe.winapp\\frmsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9210562B-B6BF-4B28-A89B-83215862A2E1}|TicTacToe.WinApp\\TicTacToe.WinApp.csproj|solutionrelative:tictactoe.winapp\\frmsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43738670-A6AB-4AC3-99AF-3626C5B20B65}|TicTacToe.Infrastructure\\TicTacToe.Infrastructure.csproj|c:\\users\\korisnik\\desktop\\tiktak\\tictactoe.infrastructure\\tictactoedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43738670-A6AB-4AC3-99AF-3626C5B20B65}|TicTacToe.Infrastructure\\TicTacToe.Infrastructure.csproj|solutionrelative:tictactoe.infrastructure\\tictactoedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9210562B-B6BF-4B28-A89B-83215862A2E1}|TicTacToe.WinApp\\TicTacToe.WinApp.csproj|c:\\users\\korisnik\\desktop\\tiktak\\tictactoe.winapp\\tictactoe.winapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9210562B-B6BF-4B28-A89B-83215862A2E1}|TicTacToe.WinApp\\TicTacToe.WinApp.csproj|solutionrelative:tictactoe.winapp\\tictactoe.winapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{6C4A16FE-B069-4E5A-BB1A-F26C7ED3145C}|TicTacToe.Data\\TicTacToe.Data.csproj|c:\\users\\korisnik\\desktop\\tiktak\\tictactoe.data\\players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4A16FE-B069-4E5A-BB1A-F26C7ED3145C}|TicTacToe.Data\\TicTacToe.Data.csproj|solutionrelative:tictactoe.data\\players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4A16FE-B069-4E5A-BB1A-F26C7ED3145C}|TicTacToe.Data\\TicTacToe.Data.csproj|c:\\users\\korisnik\\desktop\\tiktak\\tictactoe.data\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4A16FE-B069-4E5A-BB1A-F26C7ED3145C}|TicTacToe.Data\\TicTacToe.Data.csproj|solutionrelative:tictactoe.data\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9210562B-B6BF-4B28-A89B-83215862A2E1}|TicTacToe.WinApp\\TicTacToe.WinApp.csproj|c:\\users\\korisnik\\desktop\\tiktak\\tictactoe.winapp\\frmhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9210562B-B6BF-4B28-A89B-83215862A2E1}|TicTacToe.WinApp\\TicTacToe.WinApp.csproj|solutionrelative:tictactoe.winapp\\frmhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9210562B-B6BF-4B28-A89B-83215862A2E1}|TicTacToe.WinApp\\TicTacToe.WinApp.csproj|c:\\users\\korisnik\\desktop\\tiktak\\tictactoe.winapp\\frmhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9210562B-B6BF-4B28-A89B-83215862A2E1}|TicTacToe.WinApp\\TicTacToe.WinApp.csproj|solutionrelative:tictactoe.winapp\\frmhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9210562B-B6BF-4B28-A89B-83215862A2E1}|TicTacToe.WinApp\\TicTacToe.WinApp.csproj|c:\\users\\korisnik\\desktop\\tiktak\\tictactoe.winapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9210562B-B6BF-4B28-A89B-83215862A2E1}|TicTacToe.WinApp\\TicTacToe.WinApp.csproj|solutionrelative:tictactoe.winapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C4A16FE-B069-4E5A-BB1A-F26C7ED3145C}|TicTacToe.Data\\TicTacToe.Data.csproj|c:\\users\\korisnik\\desktop\\tiktak\\tictactoe.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C4A16FE-B069-4E5A-BB1A-F26C7ED3145C}|TicTacToe.Data\\TicTacToe.Data.csproj|solutionrelative:tictactoe.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +38,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Games.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\TikTak\\TicTacToe.Data\\Games.cs",
+              "RelativeDocumentMoniker": "TicTacToe.Data\\Games.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\TikTak\\TicTacToe.Data\\Games.cs",
+              "RelativeToolTip": "TicTacToe.Data\\Games.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T00:36:26.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TicTacToe.WinApp",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\TikTak\\TicTacToe.WinApp\\TicTacToe.WinApp.csproj",
-              "RelativeDocumentMoniker": "TicTacToe.WinApp\\TicTacToe.WinApp.csproj",
-              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\TikTak\\TicTacToe.WinApp\\TicTacToe.WinApp.csproj",
-              "RelativeToolTip": "TicTacToe.WinApp\\TicTacToe.WinApp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-24T22:22:58.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\TikTak\\TicTacToe.WinApp\\App.config",
-              "RelativeDocumentMoniker": "TicTacToe.WinApp\\App.config",
-              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\TikTak\\TicTacToe.WinApp\\App.config",
-              "RelativeToolTip": "TicTacToe.WinApp\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-02-24T22:23:23.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "TicTacToeDBContext.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\TikTak\\TicTacToe.Infrastructure\\TicTacToeDBContext.cs",
               "RelativeDocumentMoniker": "TicTacToe.Infrastructure\\TicTacToeDBContext.cs",
               "ToolTip": "C:\\Users\\Korisnik\\Desktop\\TikTak\\TicTacToe.Infrastructure\\TicTacToeDBContext.cs",
               "RelativeToolTip": "TicTacToe.Infrastructure\\TicTacToeDBContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T22:03:40.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\TikTak\\TicTacToe.WinApp\\Program.cs",
-              "RelativeDocumentMoniker": "TicTacToe.WinApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\TikTak\\TicTacToe.WinApp\\Program.cs",
-              "RelativeToolTip": "TicTacToe.WinApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T21:48:22.392Z",
+              "WhenOpened": "2025-02-25T00:23:29.177Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Players.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\TikTak\\TicTacToe.Data\\Players.cs",
+              "RelativeDocumentMoniker": "TicTacToe.Data\\Players.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\TikTak\\TicTacToe.Data\\Players.cs",
+              "RelativeToolTip": "TicTacToe.Data\\Players.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T00:10:55.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmSignUp.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\TikTak\\TicTacToe.WinApp\\frmSignUp.cs",
+              "RelativeDocumentMoniker": "TicTacToe.WinApp\\frmSignUp.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\TikTak\\TicTacToe.WinApp\\frmSignUp.cs",
+              "RelativeToolTip": "TicTacToe.WinApp\\frmSignUp.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAqwFMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T00:05:48.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmSignUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\TikTak\\TicTacToe.WinApp\\frmSignUp.cs",
+              "RelativeDocumentMoniker": "TicTacToe.WinApp\\frmSignUp.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\TikTak\\TicTacToe.WinApp\\frmSignUp.cs [Design]",
+              "RelativeToolTip": "TicTacToe.WinApp\\frmSignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T00:05:06.804Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmHomePage.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\TikTak\\TicTacToe.WinApp\\frmHomePage.cs",
+              "RelativeDocumentMoniker": "TicTacToe.WinApp\\frmHomePage.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\TikTak\\TicTacToe.WinApp\\frmHomePage.cs",
+              "RelativeToolTip": "TicTacToe.WinApp\\frmHomePage.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA5wBQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T23:48:37.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "frmHomePage.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\TikTak\\TicTacToe.WinApp\\frmHomePage.cs",
               "RelativeDocumentMoniker": "TicTacToe.WinApp\\frmHomePage.cs",
               "ToolTip": "C:\\Users\\Korisnik\\Desktop\\TikTak\\TicTacToe.WinApp\\frmHomePage.cs [Design]",
               "RelativeToolTip": "TicTacToe.WinApp\\frmHomePage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T21:46:51.892Z",
+              "WhenOpened": "2025-02-24T23:43:12.011Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\TikTak\\TicTacToe.Data\\Class1.cs",
-              "RelativeDocumentMoniker": "TicTacToe.Data\\Class1.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\TikTak\\TicTacToe.Data\\Class1.cs",
-              "RelativeToolTip": "TicTacToe.Data\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T21:39:33.758Z",
-              "EditorCaption": ""
             }
           ]
         },

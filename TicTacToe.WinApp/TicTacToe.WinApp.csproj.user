@@ -4,5 +4,8 @@
     <Compile Update="frmHomePage.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="frmSignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
