@@ -1,6 +1,6 @@
 ﻿namespace TicTacToe.WinApp
 {
-    partial class frmHomePage
+    partial class frmLogIn
     {
         /// <summary>
         ///  Required designer variable.
@@ -37,6 +37,7 @@
             backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             btnSignUp = new Button();
             label4 = new Label();
+            lblWarning = new Label();
             SuspendLayout();
             // 
             // txtUsername
@@ -50,6 +51,7 @@
             // 
             txtPassword.Location = new Point(269, 234);
             txtPassword.Name = "txtPassword";
+            txtPassword.PasswordChar = '*';
             txtPassword.Size = new Size(205, 23);
             txtPassword.TabIndex = 1;
             // 
@@ -79,6 +81,7 @@
             btnLogIn.TabIndex = 4;
             btnLogIn.Text = "Log in";
             btnLogIn.UseVisualStyleBackColor = true;
+            btnLogIn.Click += btnLogIn_Click;
             // 
             // label3
             // 
@@ -109,11 +112,20 @@
             label4.TabIndex = 7;
             label4.Text = "Tic Tac Toe";
             // 
-            // frmHomePage
+            // lblWarning
+            // 
+            lblWarning.AutoSize = true;
+            lblWarning.Location = new Point(272, 262);
+            lblWarning.Name = "lblWarning";
+            lblWarning.Size = new Size(0, 15);
+            lblWarning.TabIndex = 8;
+            // 
+            // frmLogIn
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(lblWarning);
             Controls.Add(label4);
             Controls.Add(btnSignUp);
             Controls.Add(label3);
@@ -122,7 +134,7 @@
             Controls.Add(label1);
             Controls.Add(txtPassword);
             Controls.Add(txtUsername);
-            Name = "frmHomePage";
+            Name = "frmLogIn";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Form1";
             Load += frmHomePage_Load;
@@ -141,5 +153,6 @@
         private System.ComponentModel.BackgroundWorker backgroundWorker1;
         private Button btnSignUp;
         private Label label4;
+        private Label lblWarning;
     }
 }

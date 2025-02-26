@@ -1,7 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Compile Update="frmHomePage.cs">
+    <Compile Update="frmEditProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmHomeScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmLogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPickDifficulty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPlay.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="frmSignUp.cs">

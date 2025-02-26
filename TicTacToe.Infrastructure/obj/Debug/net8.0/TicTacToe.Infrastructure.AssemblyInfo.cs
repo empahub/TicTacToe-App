@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TicTacToe.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c7fd2e81d0762d9419a3cbd8185b4830fb44315")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab67c2af08f72938bb0923ad6fa70539e2f3f07d")]
 [assembly: System.Reflection.AssemblyProductAttribute("TicTacToe.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TicTacToe.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -36,9 +36,9 @@
             label2 = new Label();
             label3 = new Label();
             btnSignUp = new Button();
-            label4 = new Label();
             openFileDialog1 = new OpenFileDialog();
             lblError = new Label();
+            btnChangeProfilePicture = new Button();
             ((System.ComponentModel.ISupportInitialize)pbImage).BeginInit();
             SuspendLayout();
             // 
@@ -66,9 +66,9 @@
             // 
             // pbImage
             // 
-            pbImage.Location = new Point(448, 28);
+            pbImage.Location = new Point(504, 53);
             pbImage.Name = "pbImage";
-            pbImage.Size = new Size(263, 197);
+            pbImage.Size = new Size(178, 135);
             pbImage.SizeMode = PictureBoxSizeMode.StretchImage;
             pbImage.TabIndex = 3;
             pbImage.TabStop = false;
@@ -111,16 +111,6 @@
             btnSignUp.UseVisualStyleBackColor = true;
             btnSignUp.Click += btnSignUp_Click;
             // 
-            // label4
-            // 
-            label4.AutoSize = true;
-            label4.Location = new Point(533, 228);
-            label4.Name = "label4";
-            label4.Size = new Size(81, 15);
-            label4.TabIndex = 8;
-            label4.Text = "Profile Picture";
-            label4.TextAlign = ContentAlignment.TopCenter;
-            // 
             // openFileDialog1
             // 
             openFileDialog1.FileName = "openFileDialog1";
@@ -134,13 +124,23 @@
             lblError.Size = new Size(0, 21);
             lblError.TabIndex = 9;
             // 
+            // btnChangeProfilePicture
+            // 
+            btnChangeProfilePicture.Location = new Point(522, 202);
+            btnChangeProfilePicture.Name = "btnChangeProfilePicture";
+            btnChangeProfilePicture.Size = new Size(142, 32);
+            btnChangeProfilePicture.TabIndex = 10;
+            btnChangeProfilePicture.Text = "Change Profile Picture";
+            btnChangeProfilePicture.UseVisualStyleBackColor = true;
+            btnChangeProfilePicture.Click += btnChangeProfilePicture_Click;
+            // 
             // frmSignUp
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(btnChangeProfilePicture);
             Controls.Add(lblError);
-            Controls.Add(label4);
             Controls.Add(btnSignUp);
             Controls.Add(label3);
             Controls.Add(label2);
@@ -168,8 +168,8 @@
         private Label label2;
         private Label label3;
         private Button btnSignUp;
-        private Label label4;
         private OpenFileDialog openFileDialog1;
         private Label lblError;
+        private Button btnChangeProfilePicture;
     }
 }

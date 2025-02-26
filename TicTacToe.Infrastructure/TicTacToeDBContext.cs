@@ -27,6 +27,7 @@ namespace TicTacToe.Infrastructure
 
         public DbSet<Games> Games { get; set; }
         public DbSet<Players> Players { get; set; }
+        public DbSet<NonPlayable> NonPlayable { get; set; }
 
     }
     

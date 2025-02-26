@@ -63,9 +63,9 @@ namespace TicTacToe.WinApp.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] ProfilePic {
+        internal static byte[] Play {
             get {
-                object obj = ResourceManager.GetObject("ProfilePic", resourceCulture);
+                object obj = ResourceManager.GetObject("Play", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -76,6 +76,16 @@ namespace TicTacToe.WinApp.Resources {
         internal static byte[] StartImage {
             get {
                 object obj = ResourceManager.GetObject("StartImage", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] startImage1 {
+            get {
+                object obj = ResourceManager.GetObject("startImage1", resourceCulture);
                 return ((byte[])(obj));
             }
         }

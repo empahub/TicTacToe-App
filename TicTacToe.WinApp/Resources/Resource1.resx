@@ -121,7 +121,10 @@
   <data name="StartImage" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>StartImage.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="ProfilePic" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>ProfilePic.jpg;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="startImage1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>19.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Play" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Play.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
 </root>

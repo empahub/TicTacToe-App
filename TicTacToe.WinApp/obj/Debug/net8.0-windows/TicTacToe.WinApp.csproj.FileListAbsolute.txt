@@ -3,7 +3,6 @@ C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\bin\Debug\net8.0-windows\TicTa
 C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\bin\Debug\net8.0-windows\TicTacToe.WinApp.runtimeconfig.json
 C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\bin\Debug\net8.0-windows\TicTacToe.WinApp.dll
 C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\bin\Debug\net8.0-windows\TicTacToe.WinApp.pdb
-C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\obj\Debug\net8.0-windows\TicTacToe.WinApp.frmHomePage.resources
 C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\obj\Debug\net8.0-windows\TicTacToe.WinApp.csproj.GenerateResource.cache
 C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\obj\Debug\net8.0-windows\TicTacToe.WinApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\obj\Debug\net8.0-windows\TicTacToe.WinApp.AssemblyInfoInputs.cache
@@ -73,3 +72,8 @@ C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\bin\Debug\net8.0-windows\TicTa
 C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\bin\Debug\net8.0-windows\TicTacToe.Infrastructure.pdb
 C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\obj\Debug\net8.0-windows\TicTacToe.WinApp.csproj.AssemblyReference.cache
 C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\obj\Debug\net8.0-windows\TicTacTo.8A30E971.Up2Date
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\obj\Debug\net8.0-windows\TicTacToe.WinApp.frmHomeScreen.resources
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\obj\Debug\net8.0-windows\TicTacToe.WinApp.frmLogIn.resources
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\obj\Debug\net8.0-windows\TicTacToe.WinApp.frmEditProfile.resources
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\obj\Debug\net8.0-windows\TicTacToe.WinApp.frmPickDifficulty.resources
+C:\Users\Korisnik\Desktop\TikTak\TicTacToe.WinApp\obj\Debug\net8.0-windows\TicTacToe.WinApp.frmPlay.resources
